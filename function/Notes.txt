@@ -1,0 +1,28 @@
+def -> define -> bikin function baru
+parameter -> 
+argumen ->
+
+def sayHi(nama):
+    print("Hello",nama)
+
+sayHi("Anna")
+sayHi("Brian")
+
+
+def perkenalan(nama, umur):
+    print(f"Hello {nama}, umurnya {umur}")
+
+perkenalan("Tacia", 16)
+
+def jumlah(a, b):
+    return a + b
+
+hasil = jumlah(1, 2)
+print(hasil)
+
+
+def jumlah(a, b):
+    hasil = a + b
+    return hasil
+
+print(jumlah(1,2))

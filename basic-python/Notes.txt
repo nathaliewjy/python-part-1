@@ -1,0 +1,4 @@
+1. String = teks, kalimat
+2. integer = angka (bilangan bulat)
+3. float = desimal
+4. boolean = true / false
